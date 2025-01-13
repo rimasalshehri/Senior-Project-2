@@ -52,7 +52,11 @@
 <ul>
   <li><b>Skin Tone Classification</b>: Foundational to both makeup and color palette recommendations, leveraging advanced imaging and ML techniques for reliable results.</li>
   <li><b>Machine Learning</b>: Employed for clustering, color analysis, and feature extraction to deliver tailored outcomes.</li>
+  <li><b>Knowledge-Based Recommender Models</b>: 
+    Utilize user-provided inputs such as preferences, skin tone, hair color, and seasonal palette preferences to provide highly personalized recommendations.  
+    This approach ensures accurate, user-centric suggestions even without extensive historical data.</li>
 </ul>
+
 
 ---
 
