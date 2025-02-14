@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/Logo_sp.jpg" alt="AuraBloom Logo" width="200"/>
+  <img src="Logo_sp.jpg" alt="AuraBloom Logo" width="200"/>
   <br/>
   🌸 AuraBloom 🌸
 </h1>
